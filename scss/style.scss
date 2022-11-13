@@ -288,10 +288,10 @@
                                                     height:24px;
                                                     appearance:none;
                                                     border-radius:50%;
-                                                    background:url(https://AlGit66.github.io/kurly/img/ico_checkbox.svg) no-repeat 50% 50%;
+                                                    background:url("https://AlGit66.github.io/kurly/img/ico_checkbox.svg") no-repeat 50% 50%;
                                                     background-size: 24px 24px;
                                                     &:checked {
-                                                        background-image:url(https://AlGit66.github.io/kurly/img/ico_checkbox_checked.svg);
+                                                        background-image:url("https://AlGit66.github.io/kurly/img/ico_checkbox_checked.svg");
                                                     }
                                                 }
                                                 span {
@@ -319,10 +319,10 @@
                                                     height:24px;
                                                     appearance:none;
                                                     border-radius:50%;
-                                                    background:url(https://AlGit66.github.io/kurly/img/ico_checkbox.svg) no-repeat 50% 50%;
+                                                    background:url("https://AlGit66.github.io/kurly/img/ico_checkbox.svg") no-repeat 50% 50%;
                                                     background-size: 24px 24px;
                                                     &:checked {
-                                                        background-image:url(https://AlGit66.github.io/kurly/img/ico_checkbox_checked.svg);
+                                                        background-image:url("https://AlGit66.github.io/kurly/img/ico_checkbox_checked.svg");
                                                     }
                                                 }
                                                 span {
@@ -356,7 +356,7 @@
                                                 p {
                                                     margin:15px 0 0 34px;
                                                     padding:0 0 0 15px;
-                                                    background:url(https://AlGit66.github.io/kurly/img/ico_sub_dot.svg) no-repeat 0 50%;
+                                                    background:url("https://AlGit66.github.io/kurly/img/ico_sub_dot.svg") no-repeat 0 50%;
                                                     font-size:12px;
                                                     color:#5f0080;
                                                 }
